@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="full_name">Muhamad Reza Cahyono</string>
+    <string name="title">Junior Android Developer</string>
+
+    <string name="no_phone">+6298721712713</string>
+    <string name="link_dev">@rezacahyno</string>
+    <string name="email">rezacahyono@google.com</string>
+
+</resources>
