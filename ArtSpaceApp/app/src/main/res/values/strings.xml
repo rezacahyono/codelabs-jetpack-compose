@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+
+    <string name="title_1">Get the advanced tools you need to grow</string>
+    <string name="author_1">Mailchimp</string>
+    <string name="since_1">   2017</string>
+    
+    <string name="title_2">Chloe lefleur</string>
+    <string name="author_2">Chloé Chavanon</string>
+    <string name="since_2">   2019</string>
+
+    <string name="title_3">Editorial</string>
+    <string name="author_3">Colin + Meg</string>
+    <string name="since_3">   2020</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
